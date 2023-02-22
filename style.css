@@ -1,0 +1,42 @@
+.card {
+    margin: 30px 30px 50px 590px;
+}
+
+.mb-3 {
+    width: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+}
+
+.card-body-qrcode {
+    justify-content: center;
+    width: auto;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    margin-top: 23px;
+}
+
+.container {
+    width: auto;
+    margin-left: 600px;
+    margin-top: 80px;
+}
+
+.blockquote {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.qr-footer {
+    display: flexbox;
+}
+
+.card {
+    border: 2px solid;
+    border-radius: 20px;
+}
